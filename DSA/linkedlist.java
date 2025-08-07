@@ -1,4 +1,3 @@
-import java.util.*;
 class Node{
     int data;
     Node next;
@@ -22,7 +21,7 @@ class Linked{
 public class linkedlist {
     public static void main(String[] sm){
         Linked list=new Linked();
-        list.
+        list.insert(10);
         
     }
     

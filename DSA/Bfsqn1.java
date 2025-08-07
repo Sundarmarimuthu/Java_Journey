@@ -74,5 +74,7 @@ public class Bfsqn1 {
             System.out.println("\nPath Exists");
         else
             System.out.println("\nPath does not Exist");
+
+        sc.close();
     }
 }
